@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    width: 230px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inner_cover{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#footer{
+    margin-top: 100px;
+}
